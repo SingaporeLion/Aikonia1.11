@@ -1,0 +1,530 @@
+[
+    {
+        "merged": "com.aikonia.app-merged_res-94:/drawable_twitter.png.flat",
+        "source": "com.aikonia.app-main-96:/drawable/twitter.png"
+    },
+    {
+        "merged": "com.aikonia.app-merged_res-94:/drawable_mic_button_small.png.flat",
+        "source": "com.aikonia.app-main-96:/drawable/mic_button_small.png"
+    },
+    {
+        "merged": "com.aikonia.app-merged_res-94:/drawable_setting.xml.flat",
+        "source": "com.aikonia.app-main-96:/drawable/setting.xml"
+    },
+    {
+        "merged": "com.aikonia.app-merged_res-94:/drawable_background_chat8.png.flat",
+        "source": "com.aikonia.app-main-96:/drawable/background_chat8.png"
+    },
+    {
+        "merged": "com.aikonia.app-merged_res-94:/drawable_search.png.flat",
+        "source": "com.aikonia.app-main-96:/drawable/search.png"
+    },
+    {
+        "merged": "com.aikonia.app-merged_res-94:/drawable_done.xml.flat",
+        "source": "com.aikonia.app-main-96:/drawable/done.xml"
+    },
+    {
+        "merged": "com.aikonia.app-merged_res-94:/font_urbanist_italic.ttf.flat",
+        "source": "com.aikonia.app-main-96:/font/urbanist_italic.ttf"
+    },
+    {
+        "merged": "com.aikonia.app-merged_res-94:/drawable_empty_list.xml.flat",
+        "source": "com.aikonia.app-main-96:/drawable/empty_list.xml"
+    },
+    {
+        "merged": "com.aikonia.app-merged_res-94:/drawable_menu_category.xml.flat",
+        "source": "com.aikonia.app-main-96:/drawable/menu_category.xml"
+    },
+    {
+        "merged": "com.aikonia.app-merged_res-94:/font_urbanist_extra_bold.ttf.flat",
+        "source": "com.aikonia.app-main-96:/font/urbanist_extra_bold.ttf"
+    },
+    {
+        "merged": "com.aikonia.app-merged_res-94:/drawable_time_circle_filled.xml.flat",
+        "source": "com.aikonia.app-main-96:/drawable/time_circle_filled.xml"
+    },
+    {
+        "merged": "com.aikonia.app-merged_res-94:/drawable_musical.png.flat",
+        "source": "com.aikonia.app-main-96:/drawable/musical.png"
+    },
+    {
+        "merged": "com.aikonia.app-merged_res-94:/font_dancingscript_bold.ttf.flat",
+        "source": "com.aikonia.app-main-96:/font/dancingscript_bold.ttf"
+    },
+    {
+        "merged": "com.aikonia.app-merged_res-94:/drawable_star.png.flat",
+        "source": "com.aikonia.app-main-96:/drawable/star.png"
+    },
+    {
+        "merged": "com.aikonia.app-merged_res-94:/drawable_buy.xml.flat",
+        "source": "com.aikonia.app-main-96:/drawable/buy.xml"
+    },
+    {
+        "merged": "com.aikonia.app-merged_res-94:/xml_backup_rules.xml.flat",
+        "source": "com.aikonia.app-main-96:/xml/backup_rules.xml"
+    },
+    {
+        "merged": "com.aikonia.app-merged_res-94:/drawable_cap.png.flat",
+        "source": "com.aikonia.app-main-96:/drawable/cap.png"
+    },
+    {
+        "merged": "com.aikonia.app-merged_res-94:/raw_star.json.flat",
+        "source": "com.aikonia.app-main-96:/raw/star.json"
+    },
+    {
+        "merged": "com.aikonia.app-merged_res-94:/xml_data_extraction_rules.xml.flat",
+        "source": "com.aikonia.app-main-96:/xml/data_extraction_rules.xml"
+    },
+    {
+        "merged": "com.aikonia.app-merged_res-94:/drawable_time_circle.xml.flat",
+        "source": "com.aikonia.app-main-96:/drawable/time_circle.xml"
+    },
+    {
+        "merged": "com.aikonia.app-merged_res-94:/raw_start_chat_image_animation.mp4.flat",
+        "source": "com.aikonia.app-main-96:/raw/start_chat_image_animation.mp4"
+    },
+    {
+        "merged": "com.aikonia.app-merged_res-94:/raw_background_chat_animation_big.mp4.flat",
+        "source": "com.aikonia.app-main-96:/raw/background_chat_animation_big.mp4"
+    },
+    {
+        "merged": "com.aikonia.app-merged_res-94:/drawable_info_square.xml.flat",
+        "source": "com.aikonia.app-main-96:/drawable/info_square.xml"
+    },
+    {
+        "merged": "com.aikonia.app-merged_res-94:/drawable_background_chat7.png.flat",
+        "source": "com.aikonia.app-main-96:/drawable/background_chat7.png"
+    },
+    {
+        "merged": "com.aikonia.app-merged_res-94:/drawable_paper.xml.flat",
+        "source": "com.aikonia.app-main-96:/drawable/paper.xml"
+    },
+    {
+        "merged": "com.aikonia.app-merged_res-94:/font_indieflower.ttf.flat",
+        "source": "com.aikonia.app-main-96:/font/indieflower.ttf"
+    },
+    {
+        "merged": "com.aikonia.app-merged_res-94:/drawable_category_filled.xml.flat",
+        "source": "com.aikonia.app-main-96:/drawable/category_filled.xml"
+    },
+    {
+        "merged": "com.aikonia.app-merged_res-94:/drawable_background_chat1.png.flat",
+        "source": "com.aikonia.app-main-96:/drawable/background_chat1.png"
+    },
+    {
+        "merged": "com.aikonia.app-merged_res-94:/drawable_share.xml.flat",
+        "source": "com.aikonia.app-main-96:/drawable/share.xml"
+    },
+    {
+        "merged": "com.aikonia.app-merged_res-94:/font_urbanist_font_family.xml.flat",
+        "source": "com.aikonia.app-main-96:/font/urbanist_font_family.xml"
+    },
+    {
+        "merged": "com.aikonia.app-merged_res-94:/drawable_video.xml.flat",
+        "source": "com.aikonia.app-main-96:/drawable/video.xml"
+    },
+    {
+        "merged": "com.aikonia.app-merged_res-94:/raw_areate_adobestock_469836673.mp3.flat",
+        "source": "com.aikonia.app-main-96:/raw/areate_adobestock_469836673.mp3"
+    },
+    {
+        "merged": "com.aikonia.app-merged_res-94:/font_dancingscript_medium.ttf.flat",
+        "source": "com.aikonia.app-main-96:/font/dancingscript_medium.ttf"
+    },
+    {
+        "merged": "com.aikonia.app-merged_res-94:/raw_the_light_from_within_adobestock_356526076.mp3.flat",
+        "source": "com.aikonia.app-main-96:/raw/the_light_from_within_adobestock_356526076.mp3"
+    },
+    {
+        "merged": "com.aikonia.app-merged_res-94:/drawable_search_vector.xml.flat",
+        "source": "com.aikonia.app-main-96:/drawable/search_vector.xml"
+    },
+    {
+        "merged": "com.aikonia.app-merged_res-94:/drawable_envelope.png.flat",
+        "source": "com.aikonia.app-main-96:/drawable/envelope.png"
+    },
+    {
+        "merged": "com.aikonia.app-merged_res-94:/drawable_background_chat6.png.flat",
+        "source": "com.aikonia.app-main-96:/drawable/background_chat6.png"
+    },
+    {
+        "merged": "com.aikonia.app-merged_res-94:/drawable_clapper.png.flat",
+        "source": "com.aikonia.app-main-96:/drawable/clapper.png"
+    },
+    {
+        "merged": "com.aikonia.app-merged_res-94:/drawable_square.xml.flat",
+        "source": "com.aikonia.app-main-96:/drawable/square.xml"
+    },
+    {
+        "merged": "com.aikonia.app-merged_res-94:/drawable_copy.xml.flat",
+        "source": "com.aikonia.app-main-96:/drawable/copy.xml"
+    },
+    {
+        "merged": "com.aikonia.app-merged_res-94:/drawable_balloon.png.flat",
+        "source": "com.aikonia.app-main-96:/drawable/balloon.png"
+    },
+    {
+        "merged": "com.aikonia.app-merged_res-94:/drawable_profile.xml.flat",
+        "source": "com.aikonia.app-main-96:/drawable/profile.xml"
+    },
+    {
+        "merged": "com.aikonia.app-merged_res-94:/drawable_discount.xml.flat",
+        "source": "com.aikonia.app-main-96:/drawable/discount.xml"
+    },
+    {
+        "merged": "com.aikonia.app-merged_res-94:/raw_pacific_planet_533229194.mp3.flat",
+        "source": "com.aikonia.app-main-96:/raw/pacific_planet_533229194.mp3"
+    },
+    {
+        "merged": "com.aikonia.app-merged_res-94:/drawable_close.xml.flat",
+        "source": "com.aikonia.app-main-96:/drawable/close.xml"
+    },
+    {
+        "merged": "com.aikonia.app-merged_res-94:/drawable_laugh.png.flat",
+        "source": "com.aikonia.app-main-96:/drawable/laugh.png"
+    },
+    {
+        "merged": "com.aikonia.app-merged_res-94:/drawable_arrow_right.xml.flat",
+        "source": "com.aikonia.app-main-96:/drawable/arrow_right.xml"
+    },
+    {
+        "merged": "com.aikonia.app-merged_res-94:/drawable_background_chat14.png.flat",
+        "source": "com.aikonia.app-main-96:/drawable/background_chat14.png"
+    },
+    {
+        "merged": "com.aikonia.app-merged_res-94:/drawable_delete_filled.xml.flat",
+        "source": "com.aikonia.app-main-96:/drawable/delete_filled.xml"
+    },
+    {
+        "merged": "com.aikonia.app-merged_res-94:/mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "com.aikonia.app-main-96:/mipmap-xxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.aikonia.app-merged_res-94:/drawable_logout.xml.flat",
+        "source": "com.aikonia.app-main-96:/drawable/logout.xml"
+    },
+    {
+        "merged": "com.aikonia.app-merged_res-94:/drawable_aikonia_screen.png.flat",
+        "source": "com.aikonia.app-main-96:/drawable/aikonia_screen.png"
+    },
+    {
+        "merged": "com.aikonia.app-merged_res-94:/drawable_earth.png.flat",
+        "source": "com.aikonia.app-main-96:/drawable/earth.png"
+    },
+    {
+        "merged": "com.aikonia.app-merged_res-94:/mipmap-xxxhdpi_ic_launcher_round.png.flat",
+        "source": "com.aikonia.app-main-96:/mipmap-xxxhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "com.aikonia.app-merged_res-94:/drawable_background_chat11.png.flat",
+        "source": "com.aikonia.app-main-96:/drawable/background_chat11.png"
+    },
+    {
+        "merged": "com.aikonia.app-merged_res-94:/drawable_mic_button2_small.png.flat",
+        "source": "com.aikonia.app-main-96:/drawable/mic_button2_small.png"
+    },
+    {
+        "merged": "com.aikonia.app-merged_res-94:/drawable_background_chat9.png.flat",
+        "source": "com.aikonia.app-main-96:/drawable/background_chat9.png"
+    },
+    {
+        "merged": "com.aikonia.app-merged_res-94:/drawable_gift.png.flat",
+        "source": "com.aikonia.app-main-96:/drawable/gift.png"
+    },
+    {
+        "merged": "com.aikonia.app-merged_res-94:/drawable_empty_list_dark.xml.flat",
+        "source": "com.aikonia.app-main-96:/drawable/empty_list_dark.xml"
+    },
+    {
+        "merged": "com.aikonia.app-merged_res-94:/drawable_background_chat3.png.flat",
+        "source": "com.aikonia.app-main-96:/drawable/background_chat3.png"
+    },
+    {
+        "merged": "com.aikonia.app-merged_res-94:/mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "com.aikonia.app-main-96:/mipmap-xxxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.aikonia.app-merged_res-94:/mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "com.aikonia.app-main-96:/mipmap-xhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.aikonia.app-merged_res-94:/drawable_memo.png.flat",
+        "source": "com.aikonia.app-main-96:/drawable/memo.png"
+    },
+    {
+        "merged": "com.aikonia.app-merged_res-94:/drawable_more_circle.xml.flat",
+        "source": "com.aikonia.app-main-96:/drawable/more_circle.xml"
+    },
+    {
+        "merged": "com.aikonia.app-merged_res-94:/drawable_star_vector.xml.flat",
+        "source": "com.aikonia.app-main-96:/drawable/star_vector.xml"
+    },
+    {
+        "merged": "com.aikonia.app-merged_res-94:/drawable_page_facing_up.png.flat",
+        "source": "com.aikonia.app-main-96:/drawable/page_facing_up.png"
+    },
+    {
+        "merged": "com.aikonia.app-merged_res-94:/raw_background_chat_animation.mp4.flat",
+        "source": "com.aikonia.app-main-96:/raw/background_chat_animation.mp4"
+    },
+    {
+        "merged": "com.aikonia.app-merged_res-94:/drawable_right.xml.flat",
+        "source": "com.aikonia.app-main-96:/drawable/right.xml"
+    },
+    {
+        "merged": "com.aikonia.app-merged_res-94:/drawable_send_button3_small.png.flat",
+        "source": "com.aikonia.app-main-96:/drawable/send_button3_small.png"
+    },
+    {
+        "merged": "com.aikonia.app-merged_res-94:/drawable_send.xml.flat",
+        "source": "com.aikonia.app-main-96:/drawable/send.xml"
+    },
+    {
+        "merged": "com.aikonia.app-merged_res-94:/drawable_background_chat4.png.flat",
+        "source": "com.aikonia.app-main-96:/drawable/background_chat4.png"
+    },
+    {
+        "merged": "com.aikonia.app-merged_res-94:/drawable_delete.xml.flat",
+        "source": "com.aikonia.app-main-96:/drawable/delete.xml"
+    },
+    {
+        "merged": "com.aikonia.app-merged_res-94:/drawable_briefcase.png.flat",
+        "source": "com.aikonia.app-main-96:/drawable/briefcase.png"
+    },
+    {
+        "merged": "com.aikonia.app-merged_res-94:/drawable_menu_profile.xml.flat",
+        "source": "com.aikonia.app-main-96:/drawable/menu_profile.xml"
+    },
+    {
+        "merged": "com.aikonia.app-merged_res-94:/drawable_menu_history.xml.flat",
+        "source": "com.aikonia.app-main-96:/drawable/menu_history.xml"
+    },
+    {
+        "merged": "com.aikonia.app-merged_res-94:/drawable_app_icon.png.flat",
+        "source": "com.aikonia.app-main-96:/drawable/app_icon.png"
+    },
+    {
+        "merged": "com.aikonia.app-merged_res-94:/drawable_ic_launcher_foreground.xml.flat",
+        "source": "com.aikonia.app-main-96:/drawable/ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "com.aikonia.app-merged_res-94:/drawable_background_chat12.png.flat",
+        "source": "com.aikonia.app-main-96:/drawable/background_chat12.png"
+    },
+    {
+        "merged": "com.aikonia.app-merged_res-94:/drawable_category.xml.flat",
+        "source": "com.aikonia.app-main-96:/drawable/category.xml"
+    },
+    {
+        "merged": "com.aikonia.app-merged_res-94:/raw_rise_again_adobestock_356927429.mp3.flat",
+        "source": "com.aikonia.app-main-96:/raw/rise_again_adobestock_356927429.mp3"
+    },
+    {
+        "merged": "com.aikonia.app-merged_res-94:/mipmap-mdpi_ic_launcher.png.flat",
+        "source": "com.aikonia.app-main-96:/mipmap-mdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.aikonia.app-merged_res-94:/mipmap-hdpi_ic_launcher_round.png.flat",
+        "source": "com.aikonia.app-main-96:/mipmap-hdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "com.aikonia.app-merged_res-94:/drawable_facebook.png.flat",
+        "source": "com.aikonia.app-main-96:/drawable/facebook.png"
+    },
+    {
+        "merged": "com.aikonia.app-merged_res-94:/drawable_send_button_small.png.flat",
+        "source": "com.aikonia.app-main-96:/drawable/send_button_small.png"
+    },
+    {
+        "merged": "com.aikonia.app-merged_res-94:/drawable_scroll.png.flat",
+        "source": "com.aikonia.app-main-96:/drawable/scroll.png"
+    },
+    {
+        "merged": "com.aikonia.app-merged_res-94:/drawable_background_chat5.png.flat",
+        "source": "com.aikonia.app-main-96:/drawable/background_chat5.png"
+    },
+    {
+        "merged": "com.aikonia.app-merged_res-94:/raw_background_chat_animation2.mp4.flat",
+        "source": "com.aikonia.app-main-96:/raw/background_chat_animation2.mp4"
+    },
+    {
+        "merged": "com.aikonia.app-merged_res-94:/drawable_chat.xml.flat",
+        "source": "com.aikonia.app-main-96:/drawable/chat.xml"
+    },
+    {
+        "merged": "com.aikonia.app-merged_res-94:/drawable_shield_done.xml.flat",
+        "source": "com.aikonia.app-main-96:/drawable/shield_done.xml"
+    },
+    {
+        "merged": "com.aikonia.app-merged_res-94:/drawable_laptop.png.flat",
+        "source": "com.aikonia.app-main-96:/drawable/laptop.png"
+    },
+    {
+        "merged": "com.aikonia.app-merged_res-94:/drawable_food.png.flat",
+        "source": "com.aikonia.app-main-96:/drawable/food.png"
+    },
+    {
+        "merged": "com.aikonia.app-merged_res-94:/drawable_setting_filled.xml.flat",
+        "source": "com.aikonia.app-main-96:/drawable/setting_filled.xml"
+    },
+    {
+        "merged": "com.aikonia.app-merged_res-94:/raw_launch_animation.mp4.flat",
+        "source": "com.aikonia.app-main-96:/raw/launch_animation.mp4"
+    },
+    {
+        "merged": "com.aikonia.app-merged_res-94:/drawable_instagram.png.flat",
+        "source": "com.aikonia.app-main-96:/drawable/instagram.png"
+    },
+    {
+        "merged": "com.aikonia.app-merged_res-94:/mipmap-xhdpi_ic_launcher_round.png.flat",
+        "source": "com.aikonia.app-main-96:/mipmap-xhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "com.aikonia.app-merged_res-94:/mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "com.aikonia.app-main-96:/mipmap-anydpi-v26/ic_launcher.xml"
+    },
+    {
+        "merged": "com.aikonia.app-merged_res-94:/font_dancingscript_regular.ttf.flat",
+        "source": "com.aikonia.app-main-96:/font/dancingscript_regular.ttf"
+    },
+    {
+        "merged": "com.aikonia.app-merged_res-94:/drawable_envelope_arrow.png.flat",
+        "source": "com.aikonia.app-main-96:/drawable/envelope_arrow.png"
+    },
+    {
+        "merged": "com.aikonia.app-merged_res-94:/drawable_send_button.png.flat",
+        "source": "com.aikonia.app-main-96:/drawable/send_button.png"
+    },
+    {
+        "merged": "com.aikonia.app-merged_res-94:/drawable_background_chat13.png.flat",
+        "source": "com.aikonia.app-main-96:/drawable/background_chat13.png"
+    },
+    {
+        "merged": "com.aikonia.app-merged_res-94:/drawable_history_screen_background.png.flat",
+        "source": "com.aikonia.app-main-96:/drawable/history_screen_background.png"
+    },
+    {
+        "merged": "com.aikonia.app-merged_res-94:/drawable_background_chat10.png.flat",
+        "source": "com.aikonia.app-main-96:/drawable/background_chat10.png"
+    },
+    {
+        "merged": "com.aikonia.app-merged_res-94:/font_urbanist_semi_bold.ttf.flat",
+        "source": "com.aikonia.app-main-96:/font/urbanist_semi_bold.ttf"
+    },
+    {
+        "merged": "com.aikonia.app-merged_res-94:/drawable_danger_square.xml.flat",
+        "source": "com.aikonia.app-main-96:/drawable/danger_square.xml"
+    },
+    {
+        "merged": "com.aikonia.app-merged_res-94:/mipmap-xxhdpi_ic_launcher_round.png.flat",
+        "source": "com.aikonia.app-main-96:/mipmap-xxhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "com.aikonia.app-merged_res-94:/font_urbanist_regular.ttf.flat",
+        "source": "com.aikonia.app-main-96:/font/urbanist_regular.ttf"
+    },
+    {
+        "merged": "com.aikonia.app-merged_res-94:/drawable_dark_theme.xml.flat",
+        "source": "com.aikonia.app-main-96:/drawable/dark_theme.xml"
+    },
+    {
+        "merged": "com.aikonia.app-merged_res-94:/drawable_profile_filled.xml.flat",
+        "source": "com.aikonia.app-main-96:/drawable/profile_filled.xml"
+    },
+    {
+        "merged": "com.aikonia.app-merged_res-94:/mipmap-mdpi_ic_launcher_round.png.flat",
+        "source": "com.aikonia.app-main-96:/mipmap-mdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "com.aikonia.app-merged_res-94:/drawable_chat_filled.xml.flat",
+        "source": "com.aikonia.app-main-96:/drawable/chat_filled.xml"
+    },
+    {
+        "merged": "com.aikonia.app-merged_res-94:/drawable_background_chat2.png.flat",
+        "source": "com.aikonia.app-main-96:/drawable/background_chat2.png"
+    },
+    {
+        "merged": "com.aikonia.app-merged_res-94:/font_urbanist_thin.ttf.flat",
+        "source": "com.aikonia.app-main-96:/font/urbanist_thin.ttf"
+    },
+    {
+        "merged": "com.aikonia.app-merged_res-94:/drawable_send_button2_small.png.flat",
+        "source": "com.aikonia.app-main-96:/drawable/send_button2_small.png"
+    },
+    {
+        "merged": "com.aikonia.app-merged_res-94:/drawable_puzzle.png.flat",
+        "source": "com.aikonia.app-main-96:/drawable/puzzle.png"
+    },
+    {
+        "merged": "com.aikonia.app-merged_res-94:/drawable_menu_chat.xml.flat",
+        "source": "com.aikonia.app-main-96:/drawable/menu_chat.xml"
+    },
+    {
+        "merged": "com.aikonia.app-merged_res-94:/drawable_voice.xml.flat",
+        "source": "com.aikonia.app-main-96:/drawable/voice.xml"
+    },
+    {
+        "merged": "com.aikonia.app-merged_res-94:/mipmap-hdpi_ic_launcher.png.flat",
+        "source": "com.aikonia.app-main-96:/mipmap-hdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.aikonia.app-merged_res-94:/drawable_tiktok.png.flat",
+        "source": "com.aikonia.app-main-96:/drawable/tiktok.png"
+    },
+    {
+        "merged": "com.aikonia.app-merged_res-94:/drawable_mic_button.png.flat",
+        "source": "com.aikonia.app-main-96:/drawable/mic_button.png"
+    },
+    {
+        "merged": "com.aikonia.app-merged_res-94:/font_urbanist_extra_light.ttf.flat",
+        "source": "com.aikonia.app-main-96:/font/urbanist_extra_light.ttf"
+    },
+    {
+        "merged": "com.aikonia.app-merged_res-94:/font_urbanist_light.ttf.flat",
+        "source": "com.aikonia.app-main-96:/font/urbanist_light.ttf"
+    },
+    {
+        "merged": "com.aikonia.app-merged_res-94:/font_dancingscript_semi_bold.ttf.flat",
+        "source": "com.aikonia.app-main-96:/font/dancingscript_semi_bold.ttf"
+    },
+    {
+        "merged": "com.aikonia.app-merged_res-94:/mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "com.aikonia.app-main-96:/mipmap-anydpi-v26/ic_launcher_round.xml"
+    },
+    {
+        "merged": "com.aikonia.app-merged_res-94:/font_urbanist_black.ttf.flat",
+        "source": "com.aikonia.app-main-96:/font/urbanist_black.ttf"
+    },
+    {
+        "merged": "com.aikonia.app-merged_res-94:/font_urbanist_medium.ttf.flat",
+        "source": "com.aikonia.app-main-96:/font/urbanist_medium.ttf"
+    },
+    {
+        "merged": "com.aikonia.app-merged_res-94:/font_urbanist_bold.ttf.flat",
+        "source": "com.aikonia.app-main-96:/font/urbanist_bold.ttf"
+    },
+    {
+        "merged": "com.aikonia.app-merged_res-94:/drawable_linkedin.png.flat",
+        "source": "com.aikonia.app-main-96:/drawable/linkedin.png"
+    },
+    {
+        "merged": "com.aikonia.app-merged_res-94:/drawable_arrow_left.xml.flat",
+        "source": "com.aikonia.app-main-96:/drawable/arrow_left.xml"
+    },
+    {
+        "merged": "com.aikonia.app-merged_res-94:/drawable_leafy.png.flat",
+        "source": "com.aikonia.app-main-96:/drawable/leafy.png"
+    },
+    {
+        "merged": "com.aikonia.app-merged_res-94:/drawable_cake.png.flat",
+        "source": "com.aikonia.app-main-96:/drawable/cake.png"
+    },
+    {
+        "merged": "com.aikonia.app-merged_res-94:/drawable_open_book.png.flat",
+        "source": "com.aikonia.app-main-96:/drawable/open_book.png"
+    },
+    {
+        "merged": "com.aikonia.app-merged_res-94:/drawable_page_with_curl.png.flat",
+        "source": "com.aikonia.app-main-96:/drawable/page_with_curl.png"
+    }
+]

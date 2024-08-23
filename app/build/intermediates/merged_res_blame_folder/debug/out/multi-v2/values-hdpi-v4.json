@@ -1,0 +1,20 @@
+{
+    "logs": [
+        {
+            "outputFile": "com.aikonia.app-mergeDebugResources-92:/values-hdpi-v4/values-hdpi-v4.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\singa\\.gradle\\caches\\transforms-3\\889dfe4f33263f67d7f543924d289f48\\transformed\\appcompat-1.6.1\\res\\values-hdpi-v4\\values-hdpi-v4.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endLines": "6",
+                        "endColumns": "13",
+                        "endOffsets": "327"
+                    }
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,526 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:ns1="urn:oasis:names:tc:xliff:document:1.2">
+    <string-array name="exo_controls_playback_speeds">
+    <item>0,25-fach</item>
+    <item>0,5-fach</item>
+    <item>0,75-fach</item>
+    <item>Standard</item>
+    <item>1,25-fach</item>
+    <item>1,5-fach</item>
+    <item>2-fach</item>
+  </string-array>
+    <plurals name="exo_controls_fastforward_by_amount_description">
+    <item quantity="one">%d Sekunde vorspulen</item>
+    <item quantity="other">%d Sekunden vorspulen</item>
+  </plurals>
+    <plurals name="exo_controls_rewind_by_amount_description">
+    <item quantity="one">%d Sekunde zurückspulen</item>
+    <item quantity="other">%d Sekunden zurückspulen</item>
+  </plurals>
+    <plurals name="fui_error_weak_password"> <item quantity="one">Das Passwort ist zu schwach. Verwenden Sie mindestens %1$d Zeichen und eine Mischung aus Buchstaben und Ziffern.</item> <item quantity="other">Das Passwort ist zu schwach. Verwenden Sie mindestens %1$d Zeichen und eine Mischung aus Buchstaben und Ziffern.</item> </plurals>
+    <plurals name="mtrl_badge_content_description">
+    <item quantity="one">%d neue Benachrichtigung</item>
+    <item quantity="other">%d neue Benachrichtigungen</item>
+  </plurals>
+    <string msgid="5976598919945601918" name="abc_action_bar_home_description">"Zur Startseite"</string>
+    <string msgid="8388173803310557296" name="abc_action_bar_up_description">"Nach oben"</string>
+    <string msgid="3937310113216875497" name="abc_action_menu_overflow_description">"Weitere Optionen"</string>
+    <string msgid="4692188335987374352" name="abc_action_mode_done">"Fertig"</string>
+    <string msgid="1189761859438369441" name="abc_activity_chooser_view_see_all">"Alle anzeigen"</string>
+    <string msgid="2165779757652331008" name="abc_activitychooserview_choose_application">"App auswählen"</string>
+    <string msgid="4215997306490295099" name="abc_capital_off">"AUS"</string>
+    <string msgid="884982626291842264" name="abc_capital_on">"AN"</string>
+    <string msgid="8833365367933412986" name="abc_menu_alt_shortcut_label">"Alt +"</string>
+    <string msgid="2223301931652355242" name="abc_menu_ctrl_shortcut_label">"Strg +"</string>
+    <string msgid="838001238306846836" name="abc_menu_delete_shortcut_label">"Löschen"</string>
+    <string msgid="7986526966204849475" name="abc_menu_enter_shortcut_label">"Eingabetaste"</string>
+    <string msgid="375214403600139847" name="abc_menu_function_shortcut_label">"Funktionstaste +"</string>
+    <string msgid="4192209724446364286" name="abc_menu_meta_shortcut_label">"Meta-Taste +"</string>
+    <string msgid="4741552369836443843" name="abc_menu_shift_shortcut_label">"Umschalttaste +"</string>
+    <string msgid="5473865519181928982" name="abc_menu_space_shortcut_label">"Leertaste"</string>
+    <string msgid="6180552449598693998" name="abc_menu_sym_shortcut_label">"Sym-Taste +"</string>
+    <string msgid="5520303668377388990" name="abc_prepend_shortcut_label">"Menütaste +"</string>
+    <string msgid="7208076849092622260" name="abc_search_hint">"Suchen…"</string>
+    <string msgid="3741173234950517107" name="abc_searchview_description_clear">"Suchanfrage löschen"</string>
+    <string msgid="693312494995508443" name="abc_searchview_description_query">"Suchanfrage"</string>
+    <string msgid="3417662926640357176" name="abc_searchview_description_search">"Suche"</string>
+    <string msgid="1486535517437947103" name="abc_searchview_description_submit">"Anfrage senden"</string>
+    <string msgid="2293578557972875415" name="abc_searchview_description_voice">"Sprachsuche"</string>
+    <string msgid="8875138169939072951" name="abc_shareactionprovider_share_with">"Teilen mit"</string>
+    <string msgid="9055268688411532828" name="abc_shareactionprovider_share_with_application">"Mit <ns1:g id="APPLICATION_NAME">%s</ns1:g> teilen"</string>
+    <string msgid="1656852541809559762" name="abc_toolbar_collapse_description">"Minimieren"</string>
+    <string name="about">Über</string>
+    <string name="about_us">Über Aikonia</string>
+    <string name="academic_writer">Akademischer Schreiber</string>
+    <string name="academic_writer_description">Erstelle Bildungstexte wie Aufsätze, Berichte usw.</string>
+    <string name="academic_writer_example1">Schreibe einen akademischen Aufsatz über die Auswirkungen des Klimawandels auf die globale Ernährungssicherheit.</string>
+    <string name="academic_writer_example2">Schreibe einen akademischen Aufsatz über die Rolle der Technologie in der modernen Bildung.</string>
+    <string name="academic_writer_example3">Schreibe einen akademischen Aufsatz über die Ethik der künstlichen Intelligenz und ihre Auswirkungen auf die Gesellschaft.</string>
+    <string name="account">Konto</string>
+    <string name="advertisement">Werbung</string>
+    <string name="advertisement_description">Erstelle Werbetexte für Produkte, Dienstleistungen, Marken usw.</string>
+    <string name="advertisement_example1">Ich habe einen Salondienst, gib mir Werbewörter für Marketingzwecke in sozialen Medien</string>
+    <string name="advertisement_example2">Gib mir Werbung für Parfümprodukte, die ich gerade herausgebracht habe, um Käufer anzuziehen</string>
+    <string name="advertisement_example3">Schreib mir eine Werbung für ein Food-Bazaar-Event und einen großen Rabatt am Sonntag</string>
+    <string name="ai_assistants">KI-Helfer</string>
+    <string name="all">Alle</string>
+    <string name="answer_interviewer">Interview-Antworter</string>
+    <string name="answer_interviewer_description">Erstelle Antworten auf Interviewfragen.</string>
+    <string name="answer_interviewer_example1">Gib mir eine Antwort auf die Interviewfrage \"Welches Gehalt möchten Sie?\"</string>
+    <string name="answer_interviewer_example2">Was ist die beste Antwort auf die Interviewfrage \"Was motiviert Sie, für dieses Unternehmen zu arbeiten?\"</string>
+    <string name="answer_interviewer_example3">Gib mir eine Möglichkeit, auf die Interviewfrage \"Welchen Beitrag können Sie zum Unternehmen leisten?\" zu antworten</string>
+    <string name="apology">Entschuldigung</string>
+    <string name="apology_description">Formuliere eine Entschuldigung für begangene Fehler</string>
+    <string name="apology_example1">Ich habe Freunde enttäuscht, indem ich einen wichtigen Termin vergessen habe, kann ich eine aufrichtige Entschuldigung machen?</string>
+    <string name="apology_example2">Ich habe meine Mutter verärgert, schreib mir eine aufrichtige Entschuldigung</string>
+    <string name="apology_example3">Ich habe Sarahs Lieblingskosmetik fallen lassen, was soll ich sagen, um mich zu entschuldigen?</string>
+    <string name="app_icon">App-Symbol</string>
+    <string name="app_name">Aikonia</string>
+    <string name="are_you_sure_delete_all_history">Wenn unsere Gespräche im Zaubernebel verschwinden, vergesse ich unsere bisherigen Abenteuer. Bist du sicher?</string>
+    <string name="are_you_sure_logout">Bist du sicher, dass du dich abmelden möchtest?</string>
+    <string name="ask_me_anything">Lass uns Gedanken teilen...</string>
+    <string name="back_icon">Zurück-Symbol</string>
+    <string name="birtday">Geburtstag</string>
+    <string name="birtday_description">Erstelle tolle Geburtstagswünsche für deine Liebsten</string>
+    <string name="birtday_example1">Schreib mir einen herzlichen Wunsch zum 12. Geburtstag meiner Tochter</string>
+    <string name="birtday_example2">Ich möchte meiner Mutter herzliche Glückwünsche zum 60. Geburtstag wünschen</string>
+    <string name="birtday_example3">Schreib mir einen aufrichtigen Wunsch für meinen Freund, der morgen Geburtstag hat</string>
+    <string name="bottomsheet_action_expand_halfway">Zur Hälfte maximieren</string>
+    <string name="business">Geschäft</string>
+    <string msgid="881409763997275156" name="call_notification_answer_action">"Annehmen"</string>
+    <string msgid="8793775615905189152" name="call_notification_answer_video_action">"Video"</string>
+    <string msgid="3229508546291798546" name="call_notification_decline_action">"Ablehnen"</string>
+    <string msgid="2659457946726154263" name="call_notification_hang_up_action">"Auflegen"</string>
+    <string msgid="6107532579223922871" name="call_notification_incoming_text">"Eingehender Anruf"</string>
+    <string msgid="8623827134497363134" name="call_notification_ongoing_text">"Aktueller Anruf"</string>
+    <string msgid="59049573811482460" name="call_notification_screening_text">"Filter für eingehenden Anruf"</string>
+    <string name="cancel">Abbrechen</string>
+    <string name="cancel_anytime">Jederzeit kündbar</string>
+    <string name="capabilities">Fähigkeiten</string>
+    <string name="capabilities_1">Beantworte alle deine Fragen.\n(Frag mich einfach alles, was du möchtest!)</string>
+    <string name="capabilities_2"><![CDATA[Erstelle allen Text, den du möchtest.\n(Aufsätze, Artikel, Berichte, Geschichten & mehr)]]></string>
+    <string name="capabilities_3">Konversationelle KI\n(Ich kann mit dir sprechen wie ein echter Mensch)</string>
+    <string name="capabilities_desc">Das sind nur einige Beispiele, was ich tun kann</string>
+    <string name="character_counter_content_description">Eingegebene Zeichen: %1$d von %2$d</string>
+    <string name="character_counter_overflowed_content_description">Zeichenbeschränkung überschritten: %1$d/%2$d</string>
+    <string name="chat">Starte neues Gespräch</string>
+    <string name="clear_all_history">Unsere Gespräche in Aikonias Zaubernebel auflösen?</string>
+    <string name="clear_text_end_icon_content_description">Text löschen</string>
+    <string msgid="406453423630273620" name="close_drawer">"Navigationsmenü schließen"</string>
+    <string msgid="7573152094250666567" name="close_sheet">"Tabelle schließen"</string>
+    <string msgid="2523291102206661146" name="common_google_play_services_enable_button">Aktivieren</string>
+    <string msgid="227660514972886228" name="common_google_play_services_enable_text">%1$s funktioniert erst nach der Aktivierung der Google Play-Dienste.</string>
+    <string msgid="5122002158466380389" name="common_google_play_services_enable_title">Google Play-Dienste aktivieren</string>
+    <string msgid="7153882981874058840" name="common_google_play_services_install_button">Installieren</string>
+    <string name="common_google_play_services_install_text">Zur Nutzung von %1$s sind die Google Play-Dienste erforderlich, die auf deinem Gerät nicht installiert sind.</string>
+    <string msgid="7215213145546190223" name="common_google_play_services_install_title">Google Play-Dienste installieren</string>
+    <string name="common_google_play_services_notification_channel_name">Verfügbarkeit von Google Play-Diensten</string>
+    <string name="common_google_play_services_notification_ticker">Fehler bei Zugriff auf Google Play-Dienste</string>
+    <string name="common_google_play_services_unknown_issue">%1$s hat Probleme mit Google Play-Diensten. Bitte versuche es noch einmal.</string>
+    <string name="common_google_play_services_unsupported_text">Zur Nutzung von %1$s sind Google Play-Dienste erforderlich, die auf deinem Gerät nicht unterstützt werden.</string>
+    <string msgid="6556509956452265614" name="common_google_play_services_update_button">Aktualisieren</string>
+    <string msgid="9053896323427875356" name="common_google_play_services_update_text">%1$s wird nur ausgeführt, wenn du die Google Play-Dienste aktualisierst.</string>
+    <string msgid="6006316683626838685" name="common_google_play_services_update_title">Google Play-Dienste aktualisieren</string>
+    <string name="common_google_play_services_updating_text">Zur Nutzung von %1$s sind Google Play-Dienste erforderlich, die gerade aktualisiert werden.</string>
+    <string name="common_google_play_services_wear_update_text">Eine neue Version der Google Play-Dienste wird benötigt. Diese wird in Kürze automatisch aktualisiert.</string>
+    <string name="common_open_on_phone">Auf Smartphone öffnen</string>
+    <string name="common_signin_button_text">Anmelden</string>
+    <string name="common_signin_button_text_long">Über Google anmelden</string>
+    <string name="copy">Kopieren</string>
+    <string msgid="3260749812566568062" name="copy_toast_msg">"Link in Zwischenablage kopiert"</string>
+    <string name="create_conversation">Gespräch erstellen</string>
+    <string name="create_conversation_description">Erstelle Gesprächsvorlagen für zwei oder mehr Personen</string>
+    <string name="create_conversation_example1">Schreib mir ein Gespräch zwischen 4 Personen über touristische Ziele in Amerika</string>
+    <string name="create_conversation_example2"><![CDATA[Führe mir ein Gespräch zwischen John & Lily über den Besuch eines Klassentreffens.]]></string>
+    <string name="create_conversation_example3">Gib mir ein kurzes Gespräch zwischen drei Personen über Quantenphysik.</string>
+    <string name="creative">Kreativ</string>
+    <string name="dark_theme">Dunkelmodus</string>
+    <string msgid="8038256446254964252" name="default_error_message">"Ungültige Eingabe"</string>
+    <string msgid="6312721426453364202" name="default_popup_window_title">"Pop-up-Fenster"</string>
+    <string name="developer">Entwickler</string>
+    <string name="diet_plan">Ernährungsplan</string>
+    <string name="diet_plan_description">Erstelle Mahlzeitenpläne und Diäten basierend auf deinen Vorlieben.</string>
+    <string name="diet_plan_example1">Ich wiege 80 kg, ich möchte einen Ernährungsplan, um Gemüse ohne Avocado und Kohl zu essen, weil ich es hasse.</string>
+    <string name="diet_plan_example2">Ich möchte einen Früchte-Diätplan ohne Ananas und Papaya für einen ganzen Monat.</string>
+    <string name="diet_plan_example3">Stell mich auf einen Diätplan ohne Nüsse, Tomaten und Fisch, weil ich dagegen allergisch bin.</string>
+    <string msgid="1890207353314751437" name="dropdown_menu">"Drop-down-Menü"</string>
+    <string name="email_writer">E-Mail-Schreiber</string>
+    <string name="email_writer_description">Erstelle Vorlagen für E-Mails, Briefe usw.</string>
+    <string name="email_writer_example1">Schreib mir ein Bewerbungsschreiben für die Position als Produktdesigner bei der Google-Firma.</string>
+    <string name="email_writer_example2">Ich möchte eine E-Mail an den Chef schreiben, dass ich wegen Krankheit nicht ins Büro kommen kann.</string>
+    <string name="email_writer_example3">Schreib mir eine E-Mail-Vorlage an meine Kunden, dass ich ein spannendes neues Produkt habe.</string>
+    <string name="empty">Leer</string>
+    <string name="error_icon_content_description">Fehler</string>
+    <string name="exo_controls_cc_disabled_description">Untertitel aktivieren</string>
+    <string name="exo_controls_cc_enabled_description">Untertitel deaktivieren</string>
+    <string name="exo_controls_fastforward_description">Vorspulen</string>
+    <string name="exo_controls_fullscreen_enter_description">Vollbild aktivieren</string>
+    <string name="exo_controls_fullscreen_exit_description">Vollbild beenden</string>
+    <string name="exo_controls_hide">Player-Steuerelemente ausblenden</string>
+    <string name="exo_controls_next_description">Weiter</string>
+    <string name="exo_controls_overflow_hide_description">Zusätzliche Einstellungen ausblenden</string>
+    <string name="exo_controls_overflow_show_description">Zusätzliche Einstellungen einblenden</string>
+    <string name="exo_controls_pause_description">Pausieren</string>
+    <string name="exo_controls_play_description">Wiedergeben</string>
+    <string name="exo_controls_playback_speed">Geschwindigkeit</string>
+    <string name="exo_controls_previous_description">Zurück</string>
+    <string name="exo_controls_repeat_all_description">Aktueller Modus: alles wiederholen. Wiederholungsmodus ändern.</string>
+    <string name="exo_controls_repeat_off_description">Aktueller Modus: nichts wiederholen. Wiederholungsmodus ändern.</string>
+    <string name="exo_controls_repeat_one_description">Aktueller Modus: einen Titel wiederholen. Wiederholungsmodus ändern.</string>
+    <string name="exo_controls_rewind_description">Zurückspulen</string>
+    <string name="exo_controls_seek_bar_description">Wiedergabefortschritt</string>
+    <string name="exo_controls_settings_description">Einstellungen</string>
+    <string name="exo_controls_show">Player-Steuerelemente anzeigen</string>
+    <string name="exo_controls_shuffle_off_description">Zufallsmix aktivieren</string>
+    <string name="exo_controls_shuffle_on_description">Zufallsmix deaktivieren</string>
+    <string name="exo_controls_stop_description">Beenden</string>
+    <string name="exo_controls_vr_description">VR-Modus</string>
+    <string name="exo_download_completed">Download abgeschlossen</string>
+    <string name="exo_download_description">Herunterladen</string>
+    <string name="exo_download_downloading">Wird heruntergeladen</string>
+    <string name="exo_download_failed">Download fehlgeschlagen</string>
+    <string name="exo_download_notification_channel_name">Downloads</string>
+    <string name="exo_download_paused">Downloads pausiert</string>
+    <string name="exo_download_paused_for_network">Auf Netzwerkverbindung wird gewartet</string>
+    <string name="exo_download_paused_for_wifi">Auf WLAN-Verbindung wird gewartet</string>
+    <string name="exo_download_removing">Downloads werden entfernt</string>
+    <string name="exo_item_list">%1$s, %2$s</string>
+    <string name="exo_track_bitrate">%1$.2f Mbit/s</string>
+    <string name="exo_track_mono">Mono</string>
+    <string name="exo_track_resolution">%1$d × %2$d</string>
+    <string name="exo_track_role_alternate">Alternativer Track</string>
+    <string name="exo_track_role_closed_captions">Untertitel</string>
+    <string name="exo_track_role_commentary">Kommentare</string>
+    <string name="exo_track_role_supplementary">Zusatzinhalte</string>
+    <string name="exo_track_selection_auto">Automatisch</string>
+    <string name="exo_track_selection_none">Ohne</string>
+    <string name="exo_track_selection_title_audio">Audio</string>
+    <string name="exo_track_selection_title_text">Text</string>
+    <string name="exo_track_selection_title_video">Video</string>
+    <string name="exo_track_stereo">Stereo</string>
+    <string name="exo_track_surround">Surround-Sound</string>
+    <string name="exo_track_surround_5_point_1">5.1-Surround-Sound</string>
+    <string name="exo_track_surround_7_point_1">7.1-Surround-Sound</string>
+    <string name="exo_track_unknown">Unbekannt</string>
+    <string name="explain_code">Code erklären</string>
+    <string name="explain_code_description">Erkläre schwierige Programmcode-Schnipsel</string>
+    <string name="explain_code_example1">Ich habe den PHP-Code, aber ich weiß nicht, was er bedeutet. Kannst du diesen Code erklären \"Füge deinen Code hier ein\"</string>
+    <string name="explain_code_example2">Kannst du diesen Code erklären, logische Fehler finden und potenzielle Leistungsprobleme aufdecken, falls vorhanden \"Füge deinen Code hier ein\"</string>
+    <string name="explain_code_example3">Beschreibe die Funktion dieses Codes, finde Deadlock-Probleme und potenzielle SQL-Injection-Schwachstellen, falls vorhanden \"Füge deinen Code hier ein\"</string>
+    <string name="exposed_dropdown_menu_content_description">Drop-down-Menü anzeigen</string>
+    <string name="facebook">Facebook</string>
+    <string name="facebook_description">Erstelle auffallende Beiträge auf Facebook</string>
+    <string name="facebook_example1">Ich brauche eine Facebook-Post-Idee, die mein digitales Produkt in Aktion zeigt, mit realen Beispielen, wie es meinen Kunden geholfen hat.</string>
+    <string name="facebook_example2">Ich brauche eine Facebook-Post-Idee, die eine persönliche Erfahrung oder Erfolgsgeschichte im Zusammenhang mit meinem Designkurs teilt und mein Publikum inspiriert.</string>
+    <string name="facebook_example3">Ich brauche eine Facebook-Post-Idee, die mein E-Book aufmerksamkeitsstark einführt und seine einzigartigen Merkmale hervorhebt, die es von Wettbewerbern unterscheiden.</string>
+    <string msgid="4566929209979330987" name="fallback_menu_item_copy_link">"Link kopieren"</string>
+    <string msgid="3413186855122069269" name="fallback_menu_item_open_in_browser">"Im Browser öffnen"</string>
+    <string msgid="7145444925855055364" name="fallback_menu_item_share_link">"Link teilen"</string>
+    <string name="food_recipes">Kochrezepte</string>
+    <string name="food_recipes_description">Finde jedes Kochrezept für Gerichte.</string>
+    <string name="food_recipes_example1">Ich möchte einen Salat essen, gib mir ein einfaches Salatrezept mit den Hauptzutaten Avocado, Kohl, Tomaten und Karotten.</string>
+    <string name="food_recipes_example2">Gib mir ein Rezept für die Zubereitung von koreanischem Paieon, das nicht so scharf ist.</string>
+    <string name="food_recipes_example3">Gib mir ein italienisches Rezept, das fett- und cholesterinarm ist.</string>
+    <string name="fui_accessibility_logo">App-Logo</string>
+    <string name="fui_auto_verified">Telefonnummer wurde automatisch bestätigt</string>
+    <string name="fui_button_text_save">Speichern</string>
+    <string name="fui_button_text_send">Senden</string>
+    <string name="fui_cancel">Abbrechen</string>
+    <string name="fui_confirm_recovery_body">Folgen Sie der an %1$s gesendeten Anleitung, um Ihr Passwort zurückzusetzen.</string>
+    <string name="fui_continue">Weiter</string>
+    <string name="fui_email_account_creation_error">Registrierung des E-Mail-Kontos fehlgeschlagen</string>
+    <string name="fui_email_hint">E-Mail-Adresse</string>
+    <string name="fui_email_link_confirm_email_header">E-Mail-Adresse bestätigen</string>
+    <string name="fui_email_link_confirm_email_message">E-Mail-Adresse bestätigen, um Anmeldung fortzusetzen</string>
+    <string name="fui_email_link_cross_device_linking_text">Sie haben versucht, %1$s auf einem Gerät, auf dem Sie nicht angemeldet sind, mit Ihrem E-Mail-Konto zu verbinden.\n\nWenn Sie Ihr %1$s-Konto weiterhin verbinden möchten, öffnen Sie den Link bitte auf dem Gerät, auf dem Sie den Anmeldevorgang gestartet haben. Andernfalls tippen Sie auf \"Weiter\", um sich auf diesem Gerät anzumelden.</string>
+    <string name="fui_email_link_cross_device_sign_in_button_text">Mit %1$s anmelden</string>
+    <string name="fui_email_link_different_anonymous_user_header">Sitzung beendet</string>
+    <string name="fui_email_link_different_anonymous_user_message">Die mit dieser Anmeldeanfrage verknüpfte Sitzung ist entweder abgelaufen oder wurde gelöscht.</string>
+    <string name="fui_email_link_dismiss_button">Ablehnen</string>
+    <string name="fui_email_link_email_sent">Wir haben eine Anmelde-E-Mail mit zusätzlichen Informationen an %1$s gesendet. Bitte öffnen Sie die E-Mail, um die Anmeldung abzuschließen.</string>
+    <string name="fui_email_link_header">Anmelde-E-Mail gesendet\n</string>
+    <string name="fui_email_link_invalid_link_header">Anmelden nicht möglich</string>
+    <string name="fui_email_link_invalid_link_message">Der Aktionscode ist ungültig. Möglicherweise ist der Code fehlerhaft oder abgelaufen oder er wurde bereits verwendet.</string>
+    <string name="fui_email_link_resend">Erneut senden</string>
+    <string name="fui_email_link_trouble_getting_email_header">Probleme beim Empfangen von E-Mails?</string>
+    <string name="fui_email_link_trouble_getting_email_resend_solution">Sollte das Problem auch nach Ausführung der obigen Schritte weiterhin bestehen, können Sie sich die Anmelde-E-Mail noch einmal zusenden lassen. Hinweis: Der Link in der vorhergehenden E-Mail ist dann nicht mehr gültig.</string>
+    <string name="fui_email_link_trouble_getting_possible_fixes">Versuchen Sie es mit diesen gängigen Korrekturen:\n\u2022 Prüfen Sie, ob die E-Mail als Spam markiert oder gefiltert wurde.\n\u2022 Prüfen Sie Ihre Internetverbindung.\n\u2022 Prüfen Sie, ob Sie die E-Mail-Adresse korrekt geschrieben haben.\n\u2022 Prüfen Sie, ob Ihr Posteingang über genügend Speicherplatz verfügt oder ob es Probleme mit den Einstellungen gibt.\n</string>
+    <string name="fui_email_link_wrong_device_header">Neues Gerät oder neuer Browser erkannt.</string>
+    <string name="fui_email_link_wrong_device_message">Öffnen Sie den Link mit demselben Gerät oder Browser, mit dem Sie die Anmeldung begonnen haben.</string>
+    <string name="fui_enter_confirmation_code">Gib den 6-stelligen Code ein, der gesendet wurde an</string>
+    <string name="fui_error_email_does_not_exist">Diese E-Mail-Adresse passt zu keinem Konto</string>
+    <string name="fui_error_invalid_password">Falsches Passwort</string>
+    <string name="fui_error_quota_exceeded">Bei der Bestätigung Ihrer Telefonnummer ist ein Problem aufgetreten</string>
+    <string name="fui_error_session_expired">Dieser Code ist nicht mehr gültig</string>
+    <string name="fui_error_too_many_attempts">Diese Telefonnummer wurde schon zu oft verwendet</string>
+    <string name="fui_error_unknown">Ein unbekannter Fehler ist aufgetreten.</string>
+    <string name="fui_idp_name_email">E-Mail</string>
+    <string name="fui_idp_name_facebook">Facebook</string>
+    <string name="fui_idp_name_github">GitHub</string>
+    <string name="fui_idp_name_google">Google</string>
+    <string name="fui_idp_name_phone">Telefon</string>
+    <string name="fui_idp_name_twitter">Twitter</string>
+    <string name="fui_incorrect_code_dialog_body">Falscher Code. Versuchen Sie es noch einmal.</string>
+    <string name="fui_invalid_email_address">Ungültige E-Mail-Adresse</string>
+    <string name="fui_invalid_phone_number">Gib eine gültige Telefonnummer ein</string>
+    <string name="fui_missing_email_address">E-Mail-Adresse eingeben, um fortzufahren</string>
+    <string name="fui_missing_first_and_last_name">Gib einen Vor- und Nachnamen ein.</string>
+    <string name="fui_name_hint">Vor- und Nachname</string>
+    <string name="fui_new_password_hint">Neues Passwort</string>
+    <string name="fui_next_default">Weiter</string>
+    <string name="fui_no_internet" translation_descripition="User message shown when sign-in is attempted while offline.">Netzwerkfehler. Überprüfen Sie Ihre Internetverbindung.</string>
+    <string name="fui_password_hint">Passwort</string>
+    <string name="fui_password_recovery_body">In der an diese E-Mail-Adresse gesendeten Anleitung wird beschrieben, wie Sie Ihr Passwort zurücksetzen können.</string>
+    <string name="fui_phone_hint">Telefonnummer</string>
+    <string name="fui_privacy_policy">Datenschutzerklärung</string>
+    <string name="fui_progress_dialog_checking_accounts">Auf vorhandene Konten wird geprüft…</string>
+    <string name="fui_progress_dialog_loading">Wird geladen…</string>
+    <string name="fui_progress_dialog_sending">Wird gesendet…</string>
+    <string name="fui_progress_dialog_signing_in">Anmeldung wird durchgeführt…</string>
+    <string name="fui_progress_dialog_signing_up">Registrierung wird durchgeführt…</string>
+    <string name="fui_required_field">Pflichtfeld.</string>
+    <string name="fui_resend_code">Code erneut senden</string>
+    <string name="fui_resend_code_in">Code in 0:%02d erneut senden</string>
+    <string name="fui_sign_in_anonymously">Als Gast fortfahren</string>
+    <string name="fui_sign_in_default">Anmelden</string>
+    <string name="fui_sign_in_with_apple">Über Apple anmelden</string>
+    <string name="fui_sign_in_with_email">Mit einer E-Mail-Adresse anmelden</string>
+    <string name="fui_sign_in_with_facebook">Über Facebook anmelden</string>
+    <string name="fui_sign_in_with_github">Über GitHub anmelden</string>
+    <string name="fui_sign_in_with_google">Über Google anmelden</string>
+    <string name="fui_sign_in_with_microsoft">Über Microsoft anmelden</string>
+    <string name="fui_sign_in_with_phone">Mit einer Telefonnummer anmelden</string>
+    <string name="fui_sign_in_with_phone_number">Mit einer Telefonnummer anmelden</string>
+    <string name="fui_sign_in_with_twitter">Über Twitter anmelden</string>
+    <string name="fui_sign_in_with_yahoo">Über Yahoo anmelden</string>
+    <string name="fui_sms_terms_of_service">Wenn Sie auf “%1$s” tippen, erhalten Sie möglicherweise eine SMS. Es können Gebühren für SMS und Datenübertragung anfallen.</string>
+    <string name="fui_sms_terms_of_service_and_privacy_policy_extended">Indem Sie auf “%1$s” tippen, stimmen Sie unseren %2$s und unserer %3$s zu. Sie erhalten möglicherweise eine SMS und es können Gebühren für die Nachricht und die Datenübertragung anfallen.</string>
+    <string name="fui_terms_of_service">Nutzungsbedingungen</string>
+    <string name="fui_title_confirm_recover_password">Im Posteingang nachsehen</string>
+    <string name="fui_title_recover_password_activity">Passwort zurücksetzen</string>
+    <string name="fui_title_register_email">Registrieren</string>
+    <string name="fui_tos_and_pp">Indem Sie fortfahren, stimmen Sie unseren %1$s und unserer %2$s zu.</string>
+    <string name="fui_tos_and_pp_footer">%1$s \u00A0 \u00A0 %2$s</string>
+    <string name="fui_trouble_signing_in">Probleme bei der Anmeldung?</string>
+    <string name="fui_verify_phone_number">Telefonnummer bestätigen</string>
+    <string name="fui_verify_phone_number_title">Telefonnummer eingeben</string>
+    <string name="fui_verify_your_phone_title">Telefonnummer bestätigen</string>
+    <string name="fui_verifying">Wird verifiziert…</string>
+    <string name="fui_welcome_back_email_header">Willkommen zurück!</string>
+    <string name="fui_welcome_back_email_link_header">Sie haben schon ein Konto\n</string>
+    <string name="fui_welcome_back_email_link_prompt_body">Sie haben %1$s schon benutzt. Sie können Ihr %2$s-Konto mit %1$s verbinden, indem Sie sich über den folgenden E-Mail-Link anmelden.\n\nÖffnen Sie den Link mit demselben Gerät oder Browser, um Ihr %2$s-Konto mit dieser E-Mail-Adresse zu verbinden.</string>
+    <string name="fui_welcome_back_idp_header">Sie haben bereits ein Konto</string>
+    <string name="fui_welcome_back_idp_prompt">Sie haben %1$s bereits verwendet. Melden Sie sich mit %2$s an, um fortzufahren.</string>
+    <string name="fui_welcome_back_password_prompt_body">Sie haben %1$s bereits zur Anmeldung verwendet. Gib das Passwort für dieses Konto ein.</string>
+    <string name="general">Allgemein</string>
+    <string name="help_center">Hilfezentrum</string>
+    <string name="history">Chatverlauf</string>
+    <string name="icon_content_description">Dialogfeldsymbol</string>
+    <string msgid="6827826412747255547" name="in_progress">"In Bearbeitung"</string>
+    <string msgid="7933458017204019916" name="indeterminate">"Teilweise aktiviert"</string>
+    <string name="instagram">Instagram</string>
+    <string name="instagram_description">Schreibe ansprechende Bildunterschriften für Instagram.</string>
+    <string name="instagram_example1">Ich suche eine Instagram-Post-Idee, die die einzigartigen Funktionen und Vorteile meines Produkts präsentiert und meine Kunden davon überzeugt, einen Kauf zu tätigen.</string>
+    <string name="instagram_example2">Ich brauche eine Instagram-Post-Idee, die den sozialen Beweis und positive Bewertungen meines Service hervorhebt, um Vertrauen und Glaubwürdigkeit bei meiner Zielgruppe aufzubauen.</string>
+    <string name="instagram_example3">Ich suche eine Instagram-Post-Idee, die mein Publikum auf kreative und ansprechende Weise über die Vorteile und Anwendungen meines Service informiert.</string>
+    <string name="invitation">Einladung</string>
+    <string name="invitation_description">Verfasse die perfekte Einladung für jedes Ereignis</string>
+    <string name="invitation_example1">Ich habe eine Talkshow-Veranstaltung am Samstagabend, kann ich eine Einladung erstellen, um sie mit meinem Publikum zu teilen?</string>
+    <string name="invitation_example2">Ich feiere meinen 16. Geburtstag, ich möchte eine Einladung für meine Kindheitsfreundin Mage machen.</string>
+    <string name="invitation_example3">Ich möchte ein Abendessen mit meinen Freunden aus der Schule veranstalten, bitte mach mir eine Einladung für sie.</string>
+    <string name="item_view_role_description">Tab</string>
+    <string name="job_post">Stellenanzeige</string>
+    <string name="job_post_description">Verfasse ideale Jobbeschreibungen für Anzeigen.</string>
+    <string name="job_post_example1">Mach mir eine Stellenanzeige für die Position als Produktdesigner in meinem Unternehmen.</string>
+    <string name="job_post_example2">Ich möchte eine Stellenanzeige für einen neuen Mitarbeiter in meinem Büro schreiben</string>
+    <string name="job_post_example3">Gib mir eine kurze, aber interessante Stellenanzeige für eine Forscherposition in einem Forschungsprojekt</string>
+    <string name="language">Sprache</string>
+    <string name="linkedin">LinkedIn</string>
+    <string name="linkedin_description">Erstelle auffällige Beiträge auf LinkedIn</string>
+    <string name="linkedin_example1">Ich brauche eine Linkedin-Post-Idee, die meine Programme und ihr einzigartiges Wertversprechen meinem Publikum klar und prägnant vorstellt.</string>
+    <string name="linkedin_example2">Ich suche eine Linkedln-Post-Idee, die eine kürzliche Erfolgsgeschichte mit meinem Service teilt und dessen positiven Einfluss auf meinen Kunden hervorhebt</string>
+    <string name="linkedin_example3">Kannst du mir helfen, eine Linkedin-Post-Idee zu entwickeln, die ein Testimonial von einem meiner Kunden enthält und zeigt, wie mein Produkt ihr spezifisches Problem gelöst hat?</string>
+    <string name="logout">Abmelden</string>
+    <string name="material_clock_toggle_content_description">Vormittags oder Nachmittags auswählen</string>
+    <string name="material_hour_selection">Stunde auswählen</string>
+    <string name="material_hour_suffix">%1$s Uhr</string>
+    <string name="material_minute_selection">Minuten auswählen</string>
+    <string name="material_minute_suffix">%1$s Minuten</string>
+    <string name="material_timepicker_am">AM</string>
+    <string name="material_timepicker_clock_mode_description">In den Uhrzeitmodus wechseln, um die Uhrzeit einzugeben.</string>
+    <string name="material_timepicker_hour">Stunde</string>
+    <string name="material_timepicker_minute">Minute</string>
+    <string name="material_timepicker_pm">PM</string>
+    <string name="material_timepicker_select_time">Uhrzeit auswählen</string>
+    <string name="material_timepicker_text_input_mode_description">In den Texteingabemodus wechseln, um die Uhrzeit einzugeben.</string>
+    <string name="monthly">Monatlich</string>
+    <string name="movie_script">Filmdrehbuch</string>
+    <string name="movie_script_description">Erstelle das Drehbuch für einen Film</string>
+    <string name="movie_script_example1">Gib mir ein Drehbuch für eine Komödie in einem Vergnügungspark</string>
+    <string name="movie_script_example2">Ich möchte ein Kurzfilmdrehbuch über das Leben und Freunde in der Schule schreiben</string>
+    <string name="movie_script_example3">Mach mir ein romantisches Filmskript vor dem Hintergrund der 80er Jahre in Europa</string>
+    <string name="mtrl_badge_numberless_content_description">Neue Benachrichtigung</string>
+    <string name="mtrl_chip_close_icon_content_description">%1$s entfernen</string>
+    <string name="mtrl_exceed_max_badge_number_content_description">Mehr als %1$d neue Benachrichtigungen</string>
+    <string name="mtrl_picker_a11y_next_month">Zum nächsten Monat wechseln</string>
+    <string name="mtrl_picker_a11y_prev_month">Zum vorherigen Monat wechseln</string>
+    <string name="mtrl_picker_announce_current_selection">Aktuelle Auswahl: %1$s</string>
+    <string name="mtrl_picker_confirm">@android:string/ok</string>
+    <string name="mtrl_picker_date_header_selected">%1$s</string>
+    <string name="mtrl_picker_date_header_title">Datum auswählen</string>
+    <string name="mtrl_picker_date_header_unselected">Ausgewähltes Datum</string>
+    <string name="mtrl_picker_day_of_week_column_header">Spalte \"Wochentag\": %1$s</string>
+    <string name="mtrl_picker_invalid_format">Ungültiges Format.</string>
+    <string name="mtrl_picker_invalid_format_example">Beispiel: %1$s</string>
+    <string name="mtrl_picker_invalid_format_use">Format: %1$s</string>
+    <string name="mtrl_picker_invalid_range">Ungültiger Bereich.</string>
+    <string name="mtrl_picker_navigate_to_year_description">Zum Jahr %1$s wechseln</string>
+    <string name="mtrl_picker_out_of_range">Außerhalb des Bereichs: %1$s</string>
+    <string name="mtrl_picker_range_header_only_end_selected">Startdatum – %1$s</string>
+    <string name="mtrl_picker_range_header_only_start_selected">%1$s – Enddatum</string>
+    <string name="mtrl_picker_range_header_selected">%1$s – %2$s</string>
+    <string name="mtrl_picker_range_header_title">Zeitraum auswählen</string>
+    <string name="mtrl_picker_range_header_unselected">Startdatum – Enddatum</string>
+    <string name="mtrl_picker_save">Speichern</string>
+    <string name="mtrl_picker_text_input_date_hint">Datum</string>
+    <string name="mtrl_picker_text_input_date_range_end_hint">Enddatum</string>
+    <string name="mtrl_picker_text_input_date_range_start_hint">Startdatum</string>
+    <string name="mtrl_picker_text_input_day_abbr">T</string>
+    <string name="mtrl_picker_text_input_month_abbr">M</string>
+    <string name="mtrl_picker_text_input_year_abbr">J</string>
+    <string name="mtrl_picker_toggle_to_calendar_input_mode">In den Kalendereingabemodus wechseln</string>
+    <string name="mtrl_picker_toggle_to_day_selection">Tippen, um zur Tagesauswahl zu wechseln</string>
+    <string name="mtrl_picker_toggle_to_text_input_mode">In den Texteingabemodus wechseln</string>
+    <string name="mtrl_picker_toggle_to_year_selection">Tippen, um zur Jahresauswahl zu wechseln</string>
+    <string name="native_body">Text</string>
+    <string name="native_headline">Anzeigentitel</string>
+    <string name="native_media_view">Medienansicht</string>
+    <string msgid="542007171693138492" name="navigation_menu">"Navigationsmenü"</string>
+    <string name="network_error">Netzwerkfehler</string>
+    <string name="no_conection_try_again">Bitte verbinde dich mit dem Internet und versuche es erneut.</string>
+    <string name="no_history">Du hast bis jetzt keine Nachrichten.</string>
+    <string msgid="6610465462668679431" name="not_selected">"Nicht ausgewählt"</string>
+    <string name="notifications_permission_confirm">Zulassen</string>
+    <string name="notifications_permission_decline">Nicht zulassen</string>
+    <string name="notifications_permission_title">App-Benachrichtigungen zulassen?</string>
+    <string msgid="875452955155264703" name="off">"Aus"</string>
+    <string name="offline_notification_text">Tippen, um die Werbung zu öffnen</string>
+    <string name="offline_notification_title">Werbung anzeigen, die du gespeichert hast, während du offline warst</string>
+    <string name="offline_opt_in_confirm">OK</string>
+    <string name="offline_opt_in_confirmation">Du bekommst eine Benachrichtigung mit dem Link, wenn du wieder online bist</string>
+    <string name="offline_opt_in_decline">Nein danke</string>
+    <string name="offline_opt_in_message">Wir senden dir eine Benachrichtigung mit einem Link zur Website des Werbetreibenden.</string>
+    <string name="offline_opt_in_title">Werbung öffnen, wenn du wieder online bist.</string>
+    <string msgid="8655164131929253426" name="on">"An"</string>
+    <string name="other">Anderes</string>
+    <string name="password_toggle_content_description">Passwort anzeigen</string>
+    <string name="per_month">Pro Monat</string>
+    <string name="per_week">Pro Woche</string>
+    <string name="per_year">Pro Jahr</string>
+    <string name="personal">Persönlich</string>
+    <string name="plagiarism_checker">Plagiatprüfung</string>
+    <string name="plagiarism_checker_description">Überprüfe den Text auf Plagiate</string>
+    <string name="plagiarism_checker_example1">Ich möchte die Einzigartigkeit dieses Artikels überprüfen \"Social media has completely transformed the way we communicate and interact\"</string>
+    <string name="plagiarism_checker_example2">Wie hoch ist der Originalitätsgrad dieses Aufsatzes \"One of the ways globalization has contributed to income inequality is\"</string>
+    <string name="plagiarism_checker_example3">Welcher Plagiatsanteil ergibt sich aus dieser These \"Globalization has been a driving\"</string>
+    <string name="poems">Gedichte</string>
+    <string name="poems_description">Verfasse Gedichte in verschiedenen Stilen</string>
+    <string name="poems_example1">Schreibe mir ein Gedicht zum Thema Gerechtigkeit und soziale Kritik</string>
+    <string name="poems_example2">Ich möchte ein Gedicht über Göttlichkeit schreiben</string>
+    <string name="poems_example3">Ich möchte ein Gedicht über das Scheitern im Leben und den Aufstieg zum Erfolg schreiben</string>
+    <string name="powered_by_chat_gpt">Angetrieben von Magie und Technik</string>
+    <string name="privacy_policy">Datenschutzbestimmungen</string>
+    <string name="pro">PRO</string>
+    <string name="pro_version_not_purchased">Pro-Version nicht gekauft</string>
+    <string name="purchase">Kaufen</string>
+    <string msgid="5941395253238309765" name="range_end">"Bereichsende"</string>
+    <string msgid="7097486360902471446" name="range_start">"Bereichsstart"</string>
+    <string name="remove_ads">Werbung entfernen</string>
+    <string name="restore">Wiederherstellen</string>
+    <string name="restore_purchase">Kauf wiederherstellen</string>
+    <string name="s1">Bild speichern</string>
+    <string name="s2">Der Werbeanzeige erlauben, das Bild in der Bildergalerie zu speichern?</string>
+    <string name="s3">Zustimmen</string>
+    <string name="s4">Ablehnen</string>
+    <string name="s5">Kalendertermin erstellen</string>
+    <string name="s6">Der Werbeanzeige erlauben, einen Kalendertermin zu erstellen?</string>
+    <string name="s7">Testanzeige</string>
+    <string name="save85">85% sparen</string>
+    <string name="search_conversation">Suchen…</string>
+    <string msgid="6264217191555673260" name="search_menu_title">"Suche"</string>
+    <string name="secured_by_google_play">Gesichert durch Google Play. Jederzeit kündbar</string>
+    <string msgid="6043586758067023" name="selected">"Ausgewählt"</string>
+    <string name="settings">Einstellungen</string>
+    <string name="share">Teilen</string>
+    <string name="social_media">Soziale Medien</string>
+    <string name="song_lyrics">Lieder / Texte</string>
+    <string name="song_lyrics_description">Erstelle Texte aus jedem Musikgenre, das du möchtest.</string>
+    <string name="song_lyrics_example1">Erstelle mir Songtexte über ein gebrochenes Herz wegen Liebe</string>
+    <string name="song_lyrics_example2">Ich möchte einen Song zum Thema wahre Freunde machen</string>
+    <string name="song_lyrics_example3">Mach mir einen Rocksong mit einem Anti-Kriegs-Thema</string>
+    <string name="start_chat">Lynn erwartet Dich</string>
+    <string msgid="6277540029070332960" name="status_bar_notification_info_overflow">"999+"</string>
+    <string name="stop_generating">Stoppe die Erstellung...</string>
+    <string name="storyteller">Geschichtenerzähler</string>
+    <string name="storyteller_description">Erzähle Geschichten zu jedem gewählten Thema.</string>
+    <string name="storyteller_example1">Erzähle mir eine Gute-Nacht-Geschichte über ein Mädchen mit einem magischen Stein</string>
+    <string name="storyteller_example2">Ich möchte eine Kurzgeschichte über eine Freundschaft in der Schule schreiben</string>
+    <string name="storyteller_example3">Ich möchte eine Kurzgeschichte über die Bedeutung von Liebe und Freunden schreiben</string>
+    <string name="summarize">Zusammenfassen (Kurzversion)</string>
+    <string name="summarize_description">Hebe Schlüsselpunkte aus langen Texten hervor.</string>
+    <string name="summarize_example1">Fasse diesen Artikel zusammen \"Die Wirksamkeit der kognitiven Verhaltenstherapie bei der Behandlung von Depressionen.....</string>
+    <string name="summarize_example2">Fasse diesen Aufsatz zusammen \"Eine Analyse der Auswirkungen sozialer Medien auf die psychische Gesundheit.</string>
+    <string name="summarize_example3">Fasse diese Geschichte zusammen \"Ein alter Mann im Dorf...</string>
+    <string msgid="2561197295334830845" name="switch_role">"Wechseln"</string>
+    <string msgid="1672349317127674378" name="tab">"Tab"</string>
+    <string name="tell_joke">Witz erzählen</string>
+    <string name="tell_joke_description">Schreibe lustige Witze, um deine Freunde zum Lachen zu bringen.</string>
+    <string name="tell_joke_example1">Erzähl mir einen Witz über Löwen</string>
+    <string name="tell_joke_example2">Mach mir ein paar Scherze über die Schule</string>
+    <string name="tell_joke_example3">Schreib mir 5 Witze über Giraffen, die ich meinen Freunden erzählen kann.</string>
+    <string msgid="5946805113151406391" name="template_percent">"<ns1:g id="PERCENTAGE">%1$d</ns1:g> Prozent."</string>
+    <string name="there_is_new_version">Es gibt eine neue Version dieser App, bitte aktualisiere.</string>
+    <string name="tiktok">TikTok</string>
+    <string name="tiktok_description">Erstelle fesselnde und virale Überschriften auf TikTok</string>
+    <string name="tiktok_example1">Ich brauche eine TikTok-Beitrag-Idee, die mein Roman-E-Book in Aktion zeigt, durch ein Demo-Video oder ein Produkttutorial.</string>
+    <string name="tiktok_example2">Ich suche eine TikTok-Beitrag-Idee, die sich in aktuelle Trendthemen einbindet und sie auf unterhaltsame Weise mit meinem Kosmetikprodukt in Verbindung bringt.</string>
+    <string name="tiktok_example3">Ich suche eine TikTok-Beitrag-Idee, die meinem Publikum eine Frage stellt und sie ermutigt, sich im Kommentarbereich zu beteiligen.</string>
+    <string name="translate_language">Sprache übersetzen</string>
+    <string name="translate_language_description">Übersetze von einer Sprache in eine andere</string>
+    <string name="translate_language_example1">Übersetze die folgenden Sätze ins Englische \"Consejos para mantenerse motivado y productivo mientras trabaja desde casa.\"</string>
+    <string name="translate_language_example2">Übersetze die folgenden Sätze ins Deutsche \"心理健康和自我保健对整体福祉的重要性\"</string>
+    <string name="translate_language_example3">Übersetze die folgenden Sätze ins Koreanische \"Impactul schimbárilor climatice asupra securitátii alimentare globale.\"</string>
+    <string name="twitter">Twitter</string>
+    <string name="twitter_description">Schreibe Tweets, die auf Twitter Aufmerksamkeit erregen.</string>
+    <string name="twitter_example1">Ich brauche eine Tweet-Idee, um mein Online-Kursprodukt für den idealen Kunden auf Twitter zu bewerben, damit sie es kaufen</string>
+    <string name="twitter_example2">Ich brauche eine Tweet-Idee, die die Geschichte hinter meinem Unternehmen und seiner Mission erzählt, um mit meiner Zielgruppe auf persönlicher Ebene in Verbindung zu treten.</string>
+    <string name="twitter_example3">Ich suche eine Tweet-Post-Idee, die nutzergenerierte Inhalte präsentiert und zeigt, wie mein Produkt das Leben echter Menschen verändert.</string>
+    <string name="type_something_like">Tippe so etwas wie:</string>
+    <string name="unlimited_messages">Unbegrenzte Nachrichten</string>
+    <string name="update">Aktualisieren</string>
+    <string name="upgrade_to_pro">Auf PRO upgraden!</string>
+    <string name="upgrade_to_pro_description">Genieße alle Vorteile ohne Einschränkungen</string>
+    <string name="watch_ad">Kurze Werbung ansehen</string>
+    <string name="watermark_label_prefix">AdMob – </string>
+    <string name="weekly">Wöchentlich</string>
+    <string name="welcome">Willkommen</string>
+    <string name="welcome_app_name">Aikonia</string>
+    <string name="welcome_description">Starte jetzt den Chat mit mir.\nDu kannst mich alles fragen.</string>
+    <string name="welcome_to">Entdecke</string>
+    <string name="welcome_to_pro_version">Willkommen zur Pro-Version!</string>
+    <string name="write_article">Artikel verfassen</string>
+    <string name="write_article_description">Erstelle gut geschriebene Artikel zu jedem Thema, das du möchtest</string>
+    <string name="write_article_example1">Verfasse einen Artikel über die Vorteile von Achtsamkeit im täglichen Leben.</string>
+    <string name="write_article_example2">Verfasse einen Artikel über die Auswirkungen des Klimawandels auf den Planeten.</string>
+    <string name="write_article_example3">Verfasse einen Artikel über die Bedeutung einer gesunden Work-Life-Balance.</string>
+    <string name="write_code">Code schreiben</string>
+    <string name="write_code_description">Schreibe Code in jeder Programmiersprache.</string>
+    <string name="write_code_example1">Gib mir eine CRUD-Funktion in der Programmiersprache Python</string>
+    <string name="write_code_example2">Wie erstelle ich eine HTTP-Anfrage in Javascript, PHP und Python?</string>
+    <string name="write_code_example3">Finde logische Fehler im folgenden [Sprache] Code-Schnipsel: [Code-Schnipsel].</string>
+    <string name="writing">Schreiben</string>
+    <string name="yearly">Jährlich</string>
+    <string name="yes_clear_all">Ja, auflösen!</string>
+    <string name="yes_logout">Ja, abmelden</string>
+    <string name="you_reach_free_message_limit">Du hast das tägliche Limit für kostenlose Nachrichten erreicht, du kannst auf die PRO-Version upgraden oder du kannst 1 weitere kostenlose Nachricht erhalten, indem du eine kurze Werbung ansiehst.</string>
+</resources>
